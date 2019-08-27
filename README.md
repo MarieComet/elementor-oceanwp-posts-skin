@@ -7,7 +7,7 @@ WordPress plugin that add a new skin to Elementor Pro Posts and Archives widgets
 
 ## Installation instructions
 - Upload and activate Elementor Ocean WP Posts Skin plugin
-- Edit a Posts or Archives Posts widget in Elementor, you will see a new skin called "Theme", which display posts in the OceanWP style.
+- Edit a Post or Archive Posts widget in Elementor, you will see a new skin called "Theme", which display posts in the OceanWP style.
 There is no style options for this skin : it display OceanWP style, which is set in the Customizer.
 
 ## Good to know
