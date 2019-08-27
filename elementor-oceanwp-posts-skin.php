@@ -100,10 +100,12 @@ final class Elementor_OWPPostsSkin {
 			return;
 		}
 
-		load_muplugin_textdomain( 'elementor-owp-posts-skin', basename( dirname( __FILE__ ) ) . '/languages' );
+		
 
 		// Once we get here, We have passed all validation checks so we can safely include our plugin
 		require_once( 'plugin.php' );
+
+		load_plugin_textdomain( 'elementor-owp-posts-skin', false, basename( dirname( __FILE__ ) ) . '/languages' );
 	}
 
 	/**

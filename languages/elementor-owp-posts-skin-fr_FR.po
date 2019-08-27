@@ -1,0 +1,64 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2019-08-27 13:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: elementor-oceanwp-posts-skin.php:126 elementor-oceanwp-posts-skin.php:141
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" requiert \"%2$s\" pour être installé et activé."
+
+#: elementor-oceanwp-posts-skin.php:127 elementor-oceanwp-posts-skin.php:142
+#: elementor-oceanwp-posts-skin.php:165 elementor-oceanwp-posts-skin.php:189
+msgid "Elementor Ocean WP Posts Skin"
+msgstr "Elementor Ocean WP Posts Skin"
+
+#: elementor-oceanwp-posts-skin.php:128
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: elementor-oceanwp-posts-skin.php:143
+msgid "OceanWP theme"
+msgstr "Le thème OceanWP"
+
+#: elementor-oceanwp-posts-skin.php:164 elementor-oceanwp-posts-skin.php:188
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" requiert \"%2$s\" en version %3$s ou supérieure."
+
+#: elementor-oceanwp-posts-skin.php:166
+msgid "Elementor"
+msgstr "Elementor"
+
+#: elementor-oceanwp-posts-skin.php:190
+msgid "PHP"
+msgstr "PHP"
+
+#: skins/archive-posts/skin-theme.php:20 skins/posts/skin-theme.php:24
+msgid "Theme"
+msgstr "Thème"
+
+#: skins/posts/skin-theme.php:38
+msgid "Posts Per Page"
+msgstr "Articles par page"
