@@ -12,3 +12,7 @@ There is no style options for this skin : it display OceanWP style, which is set
 
 ## Good to know
 The new skin simply use `get_template_part( 'partials/entry/layout' );`, which is located inside OceanWP theme OR OceanWP child theme.
+
+## Screenshot
+
+![Skin screenshot](https://mariecomet.fr/wp-content/uploads/2019/08/oceanwp-elementor-skin-posts.png)`
