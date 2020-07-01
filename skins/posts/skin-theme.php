@@ -44,7 +44,7 @@ class EOWPPS_Skin_Theme extends Elementor_Skin_Base {
 	}
 
 	protected function render_post() {
-		get_template_part( 'partials/entry/layout' );
+		get_template_part( 'partials/entry/layout', get_post_type() );
 	}
 
 	public function render() {
