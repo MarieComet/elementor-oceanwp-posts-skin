@@ -21,7 +21,7 @@ class EOWPPS_Posts_Archive_Skin_Theme extends EOWPPS_Skin_Theme {
 	}
 
 	protected function render_post() {
-		get_template_part( 'partials/entry/layout' );
+		get_template_part( 'partials/entry/layout', get_post_type() );
 	}
 
 	public function render() {
